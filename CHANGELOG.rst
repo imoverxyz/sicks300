@@ -2,8 +2,8 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.7 (2018-03-21)
+------------------
 * Merge remote-tracking branch 'origin/master' into HEAD
 * Merge pull request `#9 <https://github.com/imoverxyz/sicks300/issues/9>`_ from prarobo/master
   Avoid serial port open command from hanging
