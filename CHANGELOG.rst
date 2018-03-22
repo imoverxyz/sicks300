@@ -2,8 +2,8 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.9 (2018-03-22)
+------------------
 * Merge remote-tracking branch 'origin/devel' into testing
 * Merge pull request #1 from imoverxyz/add-missing-commits
   Add missing commits
