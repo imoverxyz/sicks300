@@ -2,6 +2,9 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.7 (2018-03-21)
 ------------------
 * Merge remote-tracking branch 'origin/master' into HEAD
@@ -51,7 +54,7 @@ Changelog for package sicks300
 * Convert error messages in serial communication to use ROS_ERROR
 * Add reading of additional scan metadata
   i.e. the scan number and the telegram number
-* Contributors: Damjan Miklic, Dimitri Bohlender, Gary Servin, Juraj Oršulić, Marc Hanheide, Prasanna Kannappan, prarobo, stribor14
+* Contributors: Damjan Miklic, Dimitri Bohlender, Gary Servin, Juraj Orsulic, Marc Hanheide, Prasanna Kannappan, prarobo, stribor14
 
 1.0.6 (2017-06-28)
 ------------------
